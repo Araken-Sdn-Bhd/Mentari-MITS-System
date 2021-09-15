@@ -84,7 +84,7 @@
     "vuex": "^3.6.2",
     "vuex-i18n": "^1.13.1",
     "vuex-router-sync": "^5.0.0",
-    "xlsx": "^0.16.9"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.12",
